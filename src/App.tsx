@@ -322,7 +322,7 @@ export default function App() {
 
   return (
     <div className="app">
-      <h1>H&P Grade Calculator — React</h1>
+      <h1>H&P Grade Calculator</h1>
       <p className="subhead">
         Exams + Quizzes = 80% (internally weighted by points), Assignments =
         10%, Attendance = 10%. Practicums are not included.
